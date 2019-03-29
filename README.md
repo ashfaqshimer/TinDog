@@ -1,2 +1,1 @@
-# TinDog
-Who needs Tinder when you have TinDog?? 
+TinDog Starting Files
